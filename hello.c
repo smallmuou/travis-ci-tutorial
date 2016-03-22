@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(int argc, char* argv[]) {
     printf("hello travis ci\n");
-    return 0;
+    return -1;
 }
 
 
