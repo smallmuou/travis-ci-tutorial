@@ -14,10 +14,8 @@ Git
 * 在您的Github工程中添加.travis.yml文件，如:
 <pre>
 language: c
-
 install:
     - make 
-
 script:
     - "./hello"
 </pre>
