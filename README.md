@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/moteus/lua-travis-example.png?branch=master)](https://travis-ci.org/moteus/lua-travis-example)
+[![Build Status](https://travis-ci.org/smallmuou/travis-ci-tutorial.svg?branch=master)](https://travis-ci.org/smallmuou/travis-ci-tutorial)
