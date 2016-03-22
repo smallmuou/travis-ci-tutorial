@@ -20,12 +20,12 @@ script:
     - "./hello"
 </pre>
 * 提交并push更新后，可以在travis-ci账号中心的首页参看提交及编译信息.
-* 如果需要在README.md中显示build状态，可以在README.md中添加
+* 如果需要在README.md中显示build状态，可以在README.md中添加如何类似信息
 <pre>
-[!\[Build Status](https://travis-ci.org/smallmuou/travis-ci-tutorial.svg?branch=master)](https://travis-ci.org/smallmuou/travis-ci-tutorial)
+\[!\[Build Status](https://travis-ci.org/smallmuou/travis-ci-tutorial.svg?branch=master)](https://travis-ci.org/smallmuou/travis-ci-tutorial)
 </pre>
 PS: 进入travis-ci账号中心首页，点击build状态图标，会出现弹窗口，第二个选择框选择【Markdown】，之后拷贝文本框的内容，黏贴到README.md中就可以
 
-大家可以访问https://github.com/smallmuou/travis-ci-tutorial来了解
+大家可以访问 https://github.com/smallmuou/travis-ci-tutorial 来了解
 
 ### 2. 认识.travis.yml
