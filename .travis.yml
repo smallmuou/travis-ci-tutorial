@@ -1,10 +1,6 @@
-language: c
-
-install:
-    - make 
-
-script:
-    - "./hello"
-
-after_failure:
-    - email
+   language: c
+    compiler:
+      - gcc hello -0 hello.c
+      - clang
+    # Change this to your needs
+    script: ./configure && make
